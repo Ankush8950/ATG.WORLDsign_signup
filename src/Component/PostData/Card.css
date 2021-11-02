@@ -1,0 +1,55 @@
+.card_post{
+    margin-top: 10px;
+}
+
+.card-body h5{
+    font-size: 10px;
+}
+
+
+
+.elem .card-text {
+    font-size: 15px;
+}
+
+.three_icon{
+    padding-left: 50px;
+}
+
+.card_title{
+    font-size: 13px;
+    opacity: 0.5;
+}
+
+.nav-link{
+    color: black;
+}
+
+.linkshare .nav-item{
+    list-style: none;
+}
+.linkshare .nav-itemes{
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkshare .nav-item{
+    background-color: #EDEEF0;
+    border: 0.1px solid rgb(233, 233, 233);
+}
+
+.nav-itemes_img .card-img-top{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+.post_pro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

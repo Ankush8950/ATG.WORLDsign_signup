@@ -1,0 +1,62 @@
+@import "//netdna.bootstrapcdn.com/font-awesome/3.0/css/font-awesome.css";
+
+.link_dropDown{
+    text-decoration: none;
+    font-size: 13px;
+}
+.navbar .container-fluid{
+    width: 90%;
+}
+
+
+.logo_nav{
+    color: #27A365;
+}
+
+.navbar-brands{
+    font-size: 2.37vw;
+    text-decoration: none;
+    color: #5C5D5D;
+    
+}
+ .logo_navbar{
+    padding-bottom: 8px;
+}
+.mainLoginInput{
+    width: 270px;
+    height: 40px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-size: 1vw;
+    margin: 5px 0;
+    border: none;
+    border-radius: 21px;
+    background-color:  #F2F2F2;
+    outline: none;
+  }
+
+  
+  .mainLoginInput::-webkit-input-placeholder { 
+  font-family: FontAwesome;
+  font-weight: normal;
+  overflow: visible;
+  vertical-align: top;
+  display: inline-block !important;
+  padding-left: 5px;
+  padding-top: 2px;
+  color: #7A7A7A;
+  }
+
+  .Sign_up_show{
+      position: absolute;
+      z-index: 9999;
+      top: 80%;
+      left: 50%;
+      transform: translate(-50%, 50%);
+      background-color: transparent;
+  }
+  .Sign_up_hide{
+      display: none;
+  }
+
+

@@ -1,0 +1,13 @@
+.recomm .btns{
+    width: 80px;
+    height: 35px;
+    border-radius: 20px; 
+    background-color: rgb(219, 219, 219);   
+}
+
+
+.text-start{
+    margin-left: 32px;
+    font-size: 1.2vw;
+    font-weight: 400;
+}

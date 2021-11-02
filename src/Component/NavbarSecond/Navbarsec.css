@@ -1,0 +1,36 @@
+.Navbar_sec{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.navbar-nav{
+    display: flex;
+}
+
+.Navbar_sec .navbar{
+    width: 80%;
+}
+
+.Navbar_sec .container-fluid {
+    width: 80%;
+}
+
+ .Navbar_sec .nav-item .nav-link{
+     color: rgb(0, 0, 0);
+    background-color: #EDEEF0;
+    z-index: 99;
+}
+
+.Navbar_sec .navbar .container-fluid {
+    width: 100%;
+}
+
+.Navbar_sec .navbar-nav .nav-item .nav-link{
+    border: none;
+    background-color: rgba(255, 255, 255, 0.294);
+}
+
+.active_class{
+    border-bottom: 1px solid black;
+}
+

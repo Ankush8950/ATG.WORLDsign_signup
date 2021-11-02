@@ -1,0 +1,32 @@
+.btns{
+    border: none;
+    background-color: white;
+    color: black;
+}
+
+
+.signup_page_show{
+    position: absolute;
+    z-index: 9999;
+    top: 90%;
+    right: -110%;
+    transform: translate(130%, 40%); 
+    background-color: transparent;
+}
+.signup_page_hide{
+    display: none;
+}
+
+
+.Sign_up_showses{
+    position: absolute;
+    z-index: 9999;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    background-color: transparent;
+}
+
+ .Sign_up_hideses{
+    display: none;
+} 

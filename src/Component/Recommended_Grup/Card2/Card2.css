@@ -1,0 +1,25 @@
+.card_div{
+    margin-top: 10px;
+}
+
+.card_div{
+    width: 300px;
+}
+
+.followBtn{
+    background-color: rgb(23, 23, 24);
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    font-size: 14px;
+}
+.followBtnHide{
+    background-color: #EDEEF0;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    font-size: 14px;
+}

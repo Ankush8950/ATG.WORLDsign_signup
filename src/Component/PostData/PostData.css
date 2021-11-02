@@ -1,0 +1,13 @@
+
+.container-fluid{
+    width: 90%;
+}
+
+
+.recomm_data_show{
+    z-index: 9999;
+    background-color: transparent;
+}
+.recomm_data_hide{
+    display: none;
+}
